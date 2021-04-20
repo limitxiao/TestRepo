@@ -2,7 +2,7 @@ import numpy as np
 import cv2 as cv
 import os
 import time
-#branch test message 11:01 master
+#branch test message 11:03 master
 # from concurrent.futures import ThreadPoolExecutor,wait,ALL_COMPLETED,as_completed
 yolo_dir = 'D:\Gao xiaojie Project\Object_detection\source'  # YOLO文件路径
 weightsPath = os.path.join(yolo_dir, 'yolov3.weights')  # 权重文件
